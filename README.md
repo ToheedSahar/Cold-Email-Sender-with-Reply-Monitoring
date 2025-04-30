@@ -90,4 +90,4 @@ pip install -r requirements.txt
 tkinter is used for GUI notifications and is typically included with Python.
 
 ## License
-MIT License (add a LICENSE file if desired).
+MIT License 
