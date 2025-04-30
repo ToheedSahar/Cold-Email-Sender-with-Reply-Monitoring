@@ -29,7 +29,7 @@ conn.commit()
 # Email sending function
 def send_email(to_email, channel_name, follow_up=False):
     from_email = "programmertoheedsahar@gmail.com"  # Replace with your Gmail
-    app_password = "aadrzikbvirmloox"   # Replace with your Gmail App Password
+    app_password = "***************"   # Replace with your Gmail App Password
 
     msg = MIMEMultipart('alternative')
     msg['From'] = from_email
